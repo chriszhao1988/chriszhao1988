@@ -4,7 +4,8 @@
 
 - Vered Trust.lnk., Ltd. / VERED HOLDINGS
 
+-----
 
-- Tower.tech Beijing(left)
-- Shuzhuo.tech Beijing(left)
-- MINTA.tech Beijing (my company closed😵)
+- *Tower.tech Beijing (left) - Developer*
+- *Shuzhuo.tech Beijing (left) - CTO*
+- *MINTA.tech Beijing (closed😵) - Partner*
