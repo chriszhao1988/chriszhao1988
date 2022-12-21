@@ -1,8 +1,6 @@
 ### ChrisChiu 
 
-- Blockchain Developer / Nodejs Developer 
-
-- Vered Trust.lnk., Ltd. / VERED HOLDINGS
+- Vered Trust.lnk., Ltd. / VERED HOLDINGS - Blockchain Developer
 
 -----
 
